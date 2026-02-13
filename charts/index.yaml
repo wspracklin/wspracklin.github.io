@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  goff-manager:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-02-13T08:20:09.3170607-05:00"
+    description: A Helm chart for GO Feature Flag Management System - Web UI for managing
+      feature flags with git workflows, notifications, and multiple storage backends
+    digest: 9e8e60abb52e9551486ff394011987c7f3d9147910a040b04e52386fc6540944
+    home: https://gofeatureflag.org/
+    keywords:
+    - feature-flags
+    - go-feature-flag
+    - feature-management
+    - toggles
+    maintainers:
+    - email: your-email@example.com
+      name: Your Name
+    name: goff-manager
+    sources:
+    - https://github.com/thomaspoignant/go-feature-flag
+    type: application
+    urls:
+    - https://wspracklin.github.io/charts/goff-manager-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-02-13T08:20:09.3081181-05:00"
