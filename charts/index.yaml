@@ -2,8 +2,30 @@ apiVersion: v1
 entries:
   goff-manager:
   - apiVersion: v2
+    appVersion: 0.1.10
+    created: "2026-02-23T08:59:46.4343868-05:00"
+    description: A Helm chart for GO Feature Flag Management System - Web UI for managing
+      feature flags with git workflows, notifications, and multiple storage backends
+    digest: 96bdff5befcee26c6aac986c867233984e3c8544d69c3097a5ae6fd3b708386c
+    home: https://gofeatureflag.org/
+    keywords:
+    - feature-flags
+    - go-feature-flag
+    - feature-management
+    - toggles
+    maintainers:
+    - email: your-email@example.com
+      name: Your Name
+    name: goff-manager
+    sources:
+    - https://github.com/thomaspoignant/go-feature-flag
+    type: application
+    urls:
+    - https://wspracklin.github.io/charts/goff-manager-0.1.10.tgz
+    version: 0.1.10
+  - apiVersion: v2
     appVersion: 0.1.9
-    created: "2026-02-18T19:49:05.3526556-05:00"
+    created: "2026-02-23T08:59:46.5230606-05:00"
     description: A Helm chart for GO Feature Flag Management System - Web UI for managing
       feature flags with git workflows, notifications, and multiple storage backends
     digest: 72db6af97afddfdd65fe2a20daa25ba0489fe2b36f8dd0d920aaaf96a5b8837e
@@ -25,7 +47,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2026-02-18T19:49:05.3426555-05:00"
+    created: "2026-02-23T08:59:46.5050974-05:00"
     description: A Helm chart for GO Feature Flag Management System - Web UI for managing
       feature flags with git workflows, notifications, and multiple storage backends
     digest: f0adec05a856b8b58ac2241b51dc4111aa4af4da18bccbe00451d69ff7cdd9b8
@@ -47,7 +69,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2026-02-18T19:49:05.3339433-05:00"
+    created: "2026-02-23T08:59:46.4874528-05:00"
     description: A Helm chart for GO Feature Flag Management System - Web UI for managing
       feature flags with git workflows, notifications, and multiple storage backends
     digest: 2aa40045ab7d1d20cc369c644bbfbfd8067051a5e638cc3d9f7f3d380ecb3f60
@@ -69,7 +91,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2026-02-18T19:49:05.3242589-05:00"
+    created: "2026-02-23T08:59:46.4702846-05:00"
     description: A Helm chart for GO Feature Flag Management System - Web UI for managing
       feature flags with git workflows, notifications, and multiple storage backends
     digest: 7bc3f90e6a4d8dc686ad2612595964927d31f9b8f7a35b48c41792486eafea08
@@ -91,7 +113,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2026-02-18T19:49:05.3129517-05:00"
+    created: "2026-02-23T08:59:46.453888-05:00"
     description: A Helm chart for GO Feature Flag Management System - Web UI for managing
       feature flags with git workflows, notifications, and multiple storage backends
     digest: 30b22f5e1066383d2ab984fc3620beb480526a6dba5950996eda67375a06dbe1
@@ -113,7 +135,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-02-18T19:49:05.3021137-05:00"
+    created: "2026-02-23T08:59:46.4175892-05:00"
     description: A Helm chart for GO Feature Flag Management System - Web UI for managing
       feature flags with git workflows, notifications, and multiple storage backends
     digest: 9e8e60abb52e9551486ff394011987c7f3d9147910a040b04e52386fc6540944
@@ -133,4 +155,4 @@ entries:
     urls:
     - https://wspracklin.github.io/charts/goff-manager-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-18T19:49:05.2905298-05:00"
+generated: "2026-02-23T08:59:46.3975142-05:00"
